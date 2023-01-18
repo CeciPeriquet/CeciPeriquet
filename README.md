@@ -21,3 +21,5 @@ I kinda like React but I'll learn any other framework you need...
 <a href="mailto:periwhat@gmail.com" target="_blank"><img alt="Email Ceci Periquet" src="https://img.shields.io/badge/-Email-%23694680?logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/ceciliaperiquet/" target="_blank"><img alt="LinkedIn Ceci Periquet" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white"></a>
 
 Let's collaborate!😊💻✨
+
+![](https://media.giphy.com/media/7LO7q5KcXawaQ/giphy.gif)
