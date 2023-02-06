@@ -18,7 +18,7 @@ I kinda like React but I'll learn any other framework you need...
 ### You can find me here👇
 
 ![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FPeriWhat)
-<a href="mailto:periwhat@gmail.com" target="_blank"><img alt="Email Ceci Periquet" src="https://img.shields.io/badge/-Email-%23694680?logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/ceciliaperiquet/" target="_blank"><img alt="LinkedIn Ceci Periquet" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white"></a>
+<a href="mailto:cperiquetmartin@gmail.com" target="_blank"><img alt="Email Ceci Periquet" src="https://img.shields.io/badge/-Email-%23694680?logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/ceciliaperiquet/" target="_blank"><img alt="LinkedIn Ceci Periquet" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white"></a>
 
 Let's collaborate!😊💻✨
 
